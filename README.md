@@ -13,6 +13,9 @@ The solutions are categorized into folders based on topics. Each folder contains
 - My solution  
 - Comments and explanations  
 
+Each problem file is named with its corresponding difficulty level in parentheses. For example, a problem titled `reverse-linked-list(e).cs` would indicate an **Easy** level problem, while `merge-intervals(m).cs` would be a **Medium** level problem, and `maximum-subarray(h).cs` would be a **Hard** level problem.  
+
+
 ## 🌟 For Beginners  
 Starting with LeetCode can be challenging, but don’t worry! Follow these steps:  
 
@@ -22,14 +25,13 @@ Starting with LeetCode can be challenging, but don’t worry! Follow these steps
 
 👉 **Helpful Guide:** [The LeetCode Beginner's Guide](https://leetcode.com/explore/featured/card/the-leetcode-beginners-guide/)  
 
----
+
 
 ## 🎯 Why Use This Repository?  
 - **Structured Learning:** Focus on one topic at a time to build strong fundamentals.  
 - **Reference for Future Practice:** Revisit explanations whenever you need a refresher.  
 - **Beginner-Friendly:** Solutions include comments to help you understand the thought process.  
 
----
 
 ## 💡 Contributions  
 We welcome contributions!  
