@@ -1,5 +1,3 @@
-// reverse-linked-list/Solution.cs
-
 public class Solution {
     public ListNode ReverseList(ListNode head) {
 
