@@ -1,4 +1,4 @@
-# Reverse Linked List - Explanation
+# Reverse Linked List - Explanation 
 
 ## Problem Description
 You are given the head of a singly linked list. You need to reverse the list and return its head.
