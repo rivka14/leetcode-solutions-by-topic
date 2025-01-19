@@ -1,9 +1,9 @@
 # Odd Even Linked List - Explanation
 
+## **Problem:** [Odd Even Linked List - LeetCode](https://leetcode.com/problems/odd-even-linked-list/?envType=study-plan-v2&envId=leetcode-75)
+
 ## Description
 Given the head of a singly linked list, group all the nodes with odd indices together followed by the nodes with even indices, and return the reordered list.
-
-**Problem:** [Odd Even Linked List - LeetCode](https://leetcode.com/problems/odd-even-linked-list/?envType=study-plan-v2&envId=leetcode-75)
 
 ## Difficulty Level: <span style="color: orange;">Medium</span>
 
