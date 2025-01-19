@@ -2,16 +2,14 @@
 
 ## **Problem:** [Odd Even Linked List - LeetCode](https://leetcode.com/problems/odd-even-linked-list/?envType=study-plan-v2&envId=leetcode-75)
 
+### Difficulty Level: Medium
+
 ## Description
 Given the head of a singly linked list, group all the nodes with odd indices together followed by the nodes with even indices, and return the reordered list.
-
-## Difficulty Level: <span style="color: orange;">Medium</span>
 
 ## Example
 Input: `1 -> 2 -> 3 -> 4 -> 5 -> NULL`  
 Output: `1 -> 3 -> 5 -> 2 -> 4 -> NULL`
-
----
 
 ## Approach
 
