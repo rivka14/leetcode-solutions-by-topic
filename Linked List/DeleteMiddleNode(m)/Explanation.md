@@ -1,10 +1,9 @@
 # **Explanation: Delete the Middle Node of a Linked List**
 ## **Problem:** [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/?envType=study-plan-v2&envId=leetcode-75)
 
-## **Problem Description:**
+## **Description:**
 Given a linked list, delete the middle node and return the updated list.  
 If there are two middle nodes, delete the second middle node.
-
 
 ## **Solution Explanation:**
 The solution uses the **slow/fast pointer technique** to find the middle node of the linked list:
