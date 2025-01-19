@@ -1,6 +1,8 @@
 # Reverse Linked List - Explanation  
 
-## **Problem:** [Reverse Linked List - LeetCode](https://leetcode.com/problems/reverse-linked-list/description/?envType=study-plan-v2&envId=leetcode-75)
+## **Problem:** [Reverse Linked List - LeetCode](https://leetcode.com/problems/reverse-linked-list/description/?envType=study-plan-v2&envId=leetcode-75) 
+
+### Difficulty Level: Easy
 
 ## Description
 You are given the head of a singly linked list. You need to reverse the list and return its head.
@@ -8,10 +10,6 @@ You are given the head of a singly linked list. You need to reverse the list and
 ## Example:
 Input: `1 -> 2 -> 3 -> 4 -> 5 -> NULL`  
 Output: `5 -> 4 -> 3 -> 2 -> 1 -> NULL`
-
-## Difficulty Level: Easy
-
-
 
 ## Approach:
 
