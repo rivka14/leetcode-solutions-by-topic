@@ -1,18 +1,19 @@
 # Reverse Linked List - Explanation  
 
-## Problem Description
+## **Problem:** [Reverse Linked List - LeetCode](https://leetcode.com/problems/reverse-linked-list/description/?envType=study-plan-v2&envId=leetcode-75)
+
+## Description
 You are given the head of a singly linked list. You need to reverse the list and return its head.
 
-### Example:
+## Example:
 Input: `1 -> 2 -> 3 -> 4 -> 5 -> NULL`  
 Output: `5 -> 4 -> 3 -> 2 -> 1 -> NULL`
 
-## Difficulty Level: <span style="color: green;">Easy</span>
+## Difficulty Level: Easy
 
-## Link to Problem:  
-[Reverse Linked List - LeetCode](https://leetcode.com/problems/reverse-linked-list/description/?envType=study-plan-v2&envId=leetcode-75)
 
-## Approach
+
+## Approach:
 
 ### Steps:
 1. **Base Case:**  
