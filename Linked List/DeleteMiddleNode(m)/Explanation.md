@@ -15,8 +15,8 @@ Output: `1 -> 2 -> 4`
 Input: `1 -> 2 -> 3 -> 4 -> 5`  
 Output: `1 -> 2 -> 4 -> 5`  
 
-## **Solution Explanation:**
-The solution uses the **slow/fast pointer technique** to find the middle node of the linked list:
+## **Approach:**
+I used the **slow/fast pointer technique** to find the middle node of the linked list:
 
 ### 1. **Edge Case Handling:**
    - If the list is empty or contains only one node, return `null`.
