@@ -2,7 +2,7 @@
 
 ## **Problem:** [Reverse Linked List - LeetCode](https://leetcode.com/problems/reverse-linked-list/description/?envType=study-plan-v2&envId=leetcode-75) 
 
-### Difficulty Level: Easy
+### Difficulty Level: Easy 
 
 ## Description
 You are given the head of a singly linked list. You need to reverse the list and return its head.
