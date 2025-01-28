@@ -1,7 +1,7 @@
 # Reverse Linked List - Explanation  
 
 ## **Problem:** [Reverse Linked List - LeetCode](https://leetcode.com/problems/reverse-linked-list/description/?envType=study-plan-v2&envId=leetcode-75) 
-
+ 
 ### Difficulty Level: Easy 
 
 ## Description
