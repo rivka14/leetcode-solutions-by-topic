@@ -4,7 +4,7 @@
  
 ### Difficulty Level: Easy 
 
-## Description
+## Description 
 You are given the head of a singly linked list. You need to reverse the list and return its head.
 
 ## Example:
