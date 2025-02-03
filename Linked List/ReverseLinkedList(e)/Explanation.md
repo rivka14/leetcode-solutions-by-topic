@@ -10,7 +10,7 @@ You are given the head of a singly linked list. You need to reverse the list and
 ## Example:
 Input: `1 -> 2 -> 3 -> 4 -> 5 -> NULL`   
 Output: `5 -> 4 -> 3 -> 2 -> 1 -> NULL`
- 
+  
 ## Approach:
 
 ### Steps:
