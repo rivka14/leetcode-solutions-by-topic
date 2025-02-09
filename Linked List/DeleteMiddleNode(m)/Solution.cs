@@ -6,7 +6,7 @@ public class Solution {
         // Pointer slow starts from the head
         ListNode slow = new ListNode();
         slow.next = head;
-        // Pointer fast starts from the head
+        // Pointer fast starts from the head 
         ListNode fast = head;
         // Move slow pointer one step at a time and fast pointer two steps
         while (fast != null && fast.next != null) {
