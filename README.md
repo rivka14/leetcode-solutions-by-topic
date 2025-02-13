@@ -5,7 +5,7 @@ This repository contains solutions to LeetCode problems, organized by topics and
 It’s perfect for beginners and those looking to systematically improve their problem-solving skills.  
  
 ## 📂 Repository Structure  
-The solutions are categorized into folders based on topics. Each folder contains fil es for individual problems, and every file includes:  
+The solutions are categorized into folders based on topics. Each fo lder contains fil es for individual problems, and every file includes:  
 
 - Link to the problem
 - Difficulty level (Easy, Medium, or Hard)  
