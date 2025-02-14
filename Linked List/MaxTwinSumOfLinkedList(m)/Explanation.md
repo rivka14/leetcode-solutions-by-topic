@@ -3,7 +3,7 @@
 ## **Problem:** [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/?envType=study-plan-v2&envId=leetcode-75)
 
 ### Difficulty Level: Medium 
-
+ 
 ## **Description:**
 Given a **1-indexed** linked list with an even number of nodes, the **twin sum** is defined as the sum of the first and last node, the second and second-last node, and so on.  
 The goal is to **find the maximum twin sum** among these pairs.
