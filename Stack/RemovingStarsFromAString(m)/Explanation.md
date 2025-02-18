@@ -2,7 +2,7 @@
 
 ## **Problem:** [Removing Stars from a String](https://leetcode.com/problems/removing-stars-from-a-string/)
 
-### Difficulty Level: Medium
+### Difficulty Level: Medium 
 
 ## **Description:**
 Given a string `s` containing lowercase English letters and the `*` character, you need to remove characters based on the following rule:
