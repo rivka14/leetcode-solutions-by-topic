@@ -13,7 +13,7 @@ Given a string `s` containing lowercase English letters and the `*` character, y
 ### **Example 1:**
 **Input:** `s = "leet**cod*e"`  
 **Output:** `"lecoe"`  
-**Explanation:**  
+**Explanation:**   
 - The first `*` removes the closest `t`, resulting in `lee*cod*e`.
 - The second `*` removes the closest `e`, resulting in `lecod*e`.
 - The third `*` removes `d`, resulting in `lecoe`.
