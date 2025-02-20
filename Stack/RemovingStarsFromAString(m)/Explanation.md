@@ -10,7 +10,7 @@ Given a string `s` containing lowercase English letters and the `*` character, y
 - The process continues until no stars remain in the string.
 - The final result should be returned as a string.
 
-### **Example 1:**
+### **Example 1:** 
 **Input:** `s = "leet**cod*e"`  
 **Output:** `"lecoe"`  
 **Explanation:**   
