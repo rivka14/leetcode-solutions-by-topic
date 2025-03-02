@@ -12,7 +12,7 @@ The solutions are categorized into folders based on topics. Each fo lder contain
 - My solution  
 - Comments and explanations  
 
-Each problem file is named with its corresponding difficulty level in parentheses. For example, a problem titled `reverse-linked-list(e).cs` would indicate an **Easy** level problem, while `merge-intervals(m).cs` would be a **Medium** level problem, and `maximum-subarray(h).cs` would be a **Hard** level problem.  
+Each problem file is named with its corresponding difficulty level in parentheses. For example, a problem titled `reverse-linked-list(e)` would indicate an **Easy** level problem, while `merge-intervals(m)` would be a **Medium** level problem, and `maximum-subarray(h)` would be a **Hard** level problem.  
 
 
 ## 🌟 For Beginners  
