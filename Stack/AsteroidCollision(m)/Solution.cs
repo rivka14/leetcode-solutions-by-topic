@@ -8,7 +8,7 @@ public class Solution {
         }
 
         while(stack.Count() != 0){
-            if(result.Count() == 0)
+            if(result.Count() == 0) 
                 result.Push(stack.Pop());
             else {
                 int r = result.Peek(), s = stack.Peek();
