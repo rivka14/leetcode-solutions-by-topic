@@ -6,7 +6,7 @@
 
 ## **Description:** 
 Given a string `s` containing lowercase English letters and the `*` character, you need to remove characters based on the following rule:
-- Each `*` removes the closest non-star character to its left.
+- Each `*` removes the closest non-star character to its left. 
 - The process continues until no stars remain in the string.
 - The final result should be returned as a string.
 
