@@ -9,7 +9,7 @@ Given a linked list, delete the middle node and return the updated list.
 If there are two middle nodes, delete the second middle node.
 
 ### **Examples:**
-Input: `1 -> 2 -> 3 -> 4`  
+Input: `1 -> 2 -> 3 -> 4` 
 Output: `1 -> 2 -> 4`  
 
 Input: `1 -> 2 -> 3 -> 4 -> 5`  
