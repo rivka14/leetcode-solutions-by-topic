@@ -5,7 +5,7 @@
 ### **Difficulty Level:** Easy
 
 ---
-
+ 
 ## **Description**  
 You are given an integer array `nums` consisting of `n` elements, and an integer `k`.  
 Your task is to find the **maximum average value** of any contiguous subarray of length `k`.
