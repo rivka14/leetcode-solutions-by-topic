@@ -13,17 +13,18 @@ public class Solution {
        {
             if(result.Count() == 0) 
                 result.Push(stack.Pop());
-            else {
+            else 
+           {
                 int r = result.Peek(), s = stack.Peek();
                 if(Math.Sign(r) <= Math.Sign(s))
                     result.Push(stack.Pop());
-                else if(Math.Abs(r) == Math.Abs(s) && Math.Sign(r) != Math.Sign(s)){
+                else if(Math.Abs(r) == Math.Abs(s) && Math.Sign(r) != Math.Sign(s))
+                {
                     result.Pop();
                     stack.Pop();
                 }
-                else if(Math.Abs(r) < Math.Abs(s)){
+                else if(Math.Abs(r) < Math.Abs(s))
                     result.Pop();
-                }
                 else 
                     stack.Pop();
             }
