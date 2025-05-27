@@ -47,11 +47,14 @@ This solution efficiently processes the string using a **stack data structure** 
 
 ## **Code Implementation:**
 ```csharp
-public class Solution {
-    public string RemoveStars(string s) {
+public class Solution 
+{
+    public string RemoveStars(string s) 
+    {
         Stack<char> stack = new Stack<char>();
 
-        foreach (char c in s) {
+        foreach (char c in s) 
+        {
             if (c != '*') 
                 stack.Push(c);
             else if (stack.Count > 0) 
