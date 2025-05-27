@@ -1,13 +1,16 @@
 public class Solution {
-    public int[] AsteroidCollision(int[] asteroids) {
+    public int[] AsteroidCollision(int[] asteroids) 
+    {
         Stack<int> stack = new();
         Stack<int> result = new();
 
-        for(int i = asteroids.Length - 1; i >= 0; i--){
+        for(int i = asteroids.Length - 1; i >= 0; i--)
+        {
             stack.Push(asteroids[i]);
         }
 
-        while(stack.Count() != 0){
+        while(stack.Count() != 0)
+       {
             if(result.Count() == 0) 
                 result.Push(stack.Pop());
             else {
