@@ -4,7 +4,7 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        stack = []
+        stack = [] 
         
         for c in s:
             if c != '*':
