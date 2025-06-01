@@ -10,7 +10,7 @@
 Given an encoded string, return its decoded string.  
 
 The encoding rule is: **k[encoded_string]**, where the encoded_string inside the square brackets is repeated exactly `k` times.  
-You can assume the input string is always valid — no extra white spaces, no invalid brackets, and the original data does not contain digits except for repeat numbers.
+You can assume the input string is always valid - no extra white spaces, no invalid brackets, and the original data does not contain digits except for repeat numbers.
 
 ---
 
@@ -57,7 +57,7 @@ We use **two stacks** to handle the nested decoding:
 ---
 
 ### **Time Complexity:**  
-- **O(n)** where `n` is the length of the string — each character is processed once.
+- **O(n)** where `n` is the length of the string - each character is processed once.
 
 ### **Space Complexity:**  
 - **O(n)** due to the space used by the stacks and string builders.
