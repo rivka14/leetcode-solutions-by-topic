@@ -5,7 +5,7 @@
 ### **Difficulty Level:** Medium
 
 ---
-
+ 
 ## **Description**  
 Given an encoded string, return its decoded string.  
 
