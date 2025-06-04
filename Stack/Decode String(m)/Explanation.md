@@ -51,8 +51,7 @@ We use **two stacks** to handle the nested decoding:
      - Update `currentSegment` with this combined result.
    - If it's a regular character, append it to `currentSegment`.
 
-3. **Return the result:**
-   - After processing all characters, return `currentSegment` as the final decoded string.
+
 
 ---
 
@@ -67,41 +66,43 @@ We use **two stacks** to handle the nested decoding:
 ## **Code**
 
 ```csharp
-public string DecodeString(string s) {
-    var repeatCounts   = new Stack<int>();            
-    var segmentStack   = new Stack<StringBuilder>();  
-    var currentSegment = new StringBuilder();         
-    int currentNumber  = 0;                         
+public class Solution {
+    public string DecodeString(string s) {
+        var repeatCounts   = new Stack<int>();            
+        var segmentStack   = new Stack<StringBuilder>();  
+        var currentSegment = new StringBuilder();         
+        int currentNumber  = 0;                         
 
-    foreach (char ch in s)
-    {
-        if (char.IsDigit(ch))
+        foreach (char ch in s)
         {
-            currentNumber = currentNumber * 10 + (ch - '0');
-        }
-        else if (ch == '[')
-        {
-            repeatCounts.Push(currentNumber);
-            segmentStack.Push(currentSegment);
+            if (char.IsDigit(ch))
+            {
+                currentNumber = currentNumber * 10 + (ch - '0');
+            }
+            else if (ch == '[')
+            {
+                repeatCounts.Push(currentNumber);
+                segmentStack.Push(currentSegment);
 
-            currentSegment = new StringBuilder(); 
-            currentNumber = 0;
-        }
-        else if (ch == ']')
-        {
-            int repeat = repeatCounts.Pop();
-            var parentSegment = segmentStack.Pop();
+                currentSegment = new StringBuilder(); 
+                currentNumber = 0;
+            }
+            else if (ch == ']')
+            {
+                int repeat = repeatCounts.Pop();
+                var parentSegment = segmentStack.Pop();
 
-            for (int i = 0; i < repeat; i++)
-                parentSegment.Append(currentSegment);
+                for (int i = 0; i < repeat; i++)
+                    parentSegment.Append(currentSegment);
 
-            currentSegment = parentSegment; 
+                currentSegment = parentSegment; 
+            }
+            else
+            {
+                currentSegment.Append(ch);
+            }
         }
-        else
-        {
-            currentSegment.Append(ch);
-        }
+
+        return currentSegment.ToString();
     }
-
-    return currentSegment.ToString();
 }
