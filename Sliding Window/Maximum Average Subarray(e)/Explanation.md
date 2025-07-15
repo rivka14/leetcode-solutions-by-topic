@@ -2,7 +2,7 @@
 
 ## **Problem:** [Maximum Average Subarray I - LeetCode](https://leetcode.com/problems/maximum-average-subarray-i/description/?envType=study-plan-v2&envId=leetcode-75)
 
-### **Difficulty Level:** Easy
+### **Difficulty Level:** Easy 
 
 ---
  
