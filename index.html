@@ -13,6 +13,23 @@
       --base-background-color: #14161b;
       --sidebar-background: #1b1e25;
       --base-color: #d7dbe0;
+      --sidebar-width: 22rem;        
+    }
+
+    @media (max-width: 768px) {
+      :root {
+        --sidebar-width: 100vw;
+      }
+      .sidebar {
+        width: 100vw !important;
+        transform: translateX(-100vw);  
+      }
+      .content {
+        left: 0 !important;
+      }
+      body.close .sidebar {
+        transform: translateX(0) !important;  
+      }
     }
   </style>
 </head>
