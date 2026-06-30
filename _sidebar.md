@@ -20,6 +20,7 @@
   - [🟡 Asteroid Collision](Stack/asteroid-collision%28m%29/README.md)
   - [🟡 Decode String](Stack/decode-string%28m%29/README.md)
   - [🟡 Removing Stars From A String](Stack/removing-stars-from-a-string%28m%29/README.md)
+  - [🟢 Valid Parentheses](Stack/valid-parentheses%28e%29/README.md)
 - **Two Pointers**
   - [🟡 Container With Most Water](Two%20Pointers/container-with-most-water%28m%29/README.md)
   - [🟢 Is Subsequence](Two%20Pointers/is-subsequence%28e%29/README.md)
