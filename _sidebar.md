@@ -12,6 +12,8 @@
   - [🟡 Odd Even Linked List](Linked%20List/odd-even-linked-list%28m%29/README.md)
   - [🟢 Palindrome Linked List](Linked%20List/palindrome-linked-list%28e%29/README.md)
   - [🟢 Reverse Linked List](Linked%20List/reverse-linked-list%28e%29/README.md)
+- **Math**
+  - [🟢 Palindrome Number](Math/palindrome-number%28e%29/README.md)
 - **Queue**
   - [🟢 Number Of Recent Calls](Queue/number-of-recent-calls%28e%29/README.md)
 - **Sliding Window**
