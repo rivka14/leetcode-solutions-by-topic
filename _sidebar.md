@@ -6,6 +6,8 @@
   - [🟢 Reverse Vowels Of A String](Array%20%26%20String/reverse-vowels-of-a-string%28e%29/README.md)
   - [🟡 Reverse Words In A String](Array%20%26%20String/reverse-words-in-a-string%28m%29/README.md)
   - [🟢 Score Of A String](Array%20%26%20String/score-of-a-string%28e%29/README.md)
+- **Binary Search**
+  - [🟢 Guess Number Higher Or Lower](Binary%20Search/guess-number-higher-or-lower%28e%29/README.md)
 - **Linked List**
   - [🟡 Delete The Middle Node Of A Linked List](Linked%20List/delete-the-middle-node-of-a-linked-list%28m%29/README.md)
   - [🟡 Maximum Twin Sum Of A Linked List](Linked%20List/maximum-twin-sum-of-a-linked-list%28m%29/README.md)
