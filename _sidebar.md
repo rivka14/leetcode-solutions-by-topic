@@ -17,6 +17,8 @@
   - [🟢 Reverse Linked List](Linked%20List/reverse-linked-list%28e%29/README.md)
 - **Math**
   - [🟢 Palindrome Number](Math/palindrome-number%28e%29/README.md)
+- **Matrix**
+  - [🟡 Spiral Matrix](Matrix/spiral-matrix%28m%29/README.md)
 - **Queue**
   - [🟢 Number Of Recent Calls](Queue/number-of-recent-calls%28e%29/README.md)
 - **Sliding Window**
