@@ -36,3 +36,4 @@
   - [🟢 Is Subsequence](Two%20Pointers/is-subsequence%28e%29/README.md)
   - [🟢 Move Zeroes](Two%20Pointers/move-zeroes%28e%29/README.md)
   - [🟢 Reverse String](Two%20Pointers/reverse-string%28e%29/README.md)
+  - [🟢 Valid Palindrome](Two%20Pointers/valid-palindrome%28e%29/README.md)
