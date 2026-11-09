@@ -1,5 +1,7 @@
-public class Solution {
-    public ListNode DeleteMiddle(ListNode head) {
+public class Solution 
+{
+    public ListNode DeleteMiddle(ListNode head) 
+    {
         if (head == null || head.next == null)
             return null;
 
@@ -7,7 +9,8 @@ public class Solution {
         slow.next = head;
         ListNode fast = head;
 
-        while (fast != null && fast.next != null) {
+        while (fast != null && fast.next != null) 
+        {
             slow = slow.next;
             fast = fast.next.next;
         }
@@ -18,7 +21,8 @@ public class Solution {
         return head;
     }
   
-    public void DeleteNode(ListNode node) {
+    public void DeleteNode(ListNode node) 
+    {
         node.next = null;
     }
 }
