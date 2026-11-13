@@ -10,6 +10,7 @@
   - [🟢 Guess Number Higher Or Lower](Binary%20Search/guess-number-higher-or-lower%28e%29/README.md)
 - **Hash Map**
   - [🟢 Contains Duplicate](Hash%20Map/contains-duplicate%28e%29/README.md)
+  - [🟢 Roman To Integer](Hash%20Map/roman-to-integer%28e%29/README.md)
   - [🟢 Two Sum](Hash%20Map/two-sum%28e%29/README.md)
 - **Linked List**
   - [🟡 Delete The Middle Node Of A Linked List](Linked%20List/delete-the-middle-node-of-a-linked-list%28m%29/README.md)
